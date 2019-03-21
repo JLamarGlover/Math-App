@@ -1,0 +1,11 @@
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\LamarGlover\Desktop\Labs\Jan 26 Labs 3A, 3B, 3C, 3D\3D - C# Math App\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
